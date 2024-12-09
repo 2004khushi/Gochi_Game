@@ -1,0 +1,24 @@
+Features:
+
+    Player Prediction: Each player predicts how many "sirs" they can make before the game starts.
+    Real-Time Score Update: As the game progresses, the program automatically updates and tracks each player's total score based on their prediction and actual sirs made.
+    Ranking System: At the end of the game, the players are ranked in descending order of their total scores, giving you a clear view of who won and by how many points!
+    No More Paperwork: Say goodbye to manually writing scores down and performing calculations. The system handles all of that for you!
+
+How It Works:
+
+    Enter the number of players and rounds.
+    Each player enters their predicted number of sirs.
+    After every round, each player enters the actual number of sirs they made.
+    The system calculates the scores, updates the leaderboard, and displays the rankings.
+    At the end of all rounds, the final results show the players in descending order of their performance.
+
+Why You Need It:
+
+    Quick Setup: Get started right away with no hassle.
+    Efficient Tracking: No need for complicated spreadsheets or manual counting.
+    Fun & Interactive: Adds a new layer of excitement to your card games, as players can easily track their predictions and scores in real-time.
+
+It's the perfect tool for card games, where predictions meet performance!
+
+No more pen and paper, just pure fun, calculation-free gaming. 🎮✨
