@@ -1,0 +1,31 @@
+Input-
+
+Enter the number of players: 3
+Enter name for Player 1: Alice
+Enter name for Player 2: Bob
+Enter name for Player 3: Charlie
+Enter the number of rounds to play: 2
+
+Round 1:
+Enter predicted number of sirs for Alice: 3
+Enter predicted number of sirs for Bob: 4
+Enter predicted number of sirs for Charlie: 2
+Enter actual number of sirs made by Alice: 5
+Enter actual number of sirs made by Bob: 3
+Enter actual number of sirs made by Charlie: 2
+
+Round 2:
+Enter predicted number of sirs for Alice: 2
+Enter predicted number of sirs for Bob: 3
+Enter predicted number of sirs for Charlie: 1
+Enter actual number of sirs made by Alice: 3
+Enter actual number of sirs made by Bob: 2
+Enter actual number of sirs made by Charlie: 1
+
+
+Output-
+Final Rankings :
+Rank 1: Alice with total score: 53
+Rank 2: Charlie with total score: 30
+Rank 3: Bob with total score: -50
+
