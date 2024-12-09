@@ -1,0 +1,36 @@
+# Ignore build files (compiled C++ code)
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.dll
+*.dSYM
+
+# Ignore IDE-specific folders and settings
+.vscode/
+.idea/
+*.vscode/
+
+# Ignore temporary files created by text editors or IDEs
+*.log
+*.swp
+*.swo
+
+# Ignore system-specific files
+.DS_Store           # macOS
+Thumbs.db           # Windows
+
+
+
+Explanation of Each Line:
+
+   1) *.exe, *.out, *.o, etc., are the types of files that result from compiling your C++ code. These files should not be tracked because they are generated from the source code and can be regenerated.
+    
+2) .vscode/ and .idea/ are folders created by IDEs like Visual Studio Code and IntelliJ IDEA, which contain project settings and configurations that are typically not needed in version control.
+    
+3) Files like *.log, *.swp, and *.swo are temporary or swap files created by editors (e.g., Vim or Emacs).
+    
+4) .DS_Store is created by macOS Finder to store custom attributes of a directory.
+    
+5) Thumbs.db is a cache file created by Windows Explorer.
