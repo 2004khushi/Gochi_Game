@@ -30,7 +30,7 @@ void updateScore(Player &p, int prediction, int actualSirs) {
 
 // Function to display the final results
 void displayResults(const vector<Player>& players) {
-    cout << "\nFinal Rankings (Descending Order of Scores):\n";
+    cout << "\nFinal Rankings : \n";
     int rank = 1;
     for (const auto& player : players) {
         cout << "Rank " << rank++ << ": " << player.name << " with total score: " << player.totalScore << endl;
